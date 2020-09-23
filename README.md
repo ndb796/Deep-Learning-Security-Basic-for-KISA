@@ -1,6 +1,6 @@
-### Adversarial Example Tutorial for KISA
+### Deep Learning Security Basic for KISA
 
-> Adversarial Example Tutorial for KISA
+> Deep Learning Security Basic for KISA
 * KISA 인공지능 보안: AI 모델 공격과 방어 강의용 저장소입니다.
 
 ### Google Colab Notebook
