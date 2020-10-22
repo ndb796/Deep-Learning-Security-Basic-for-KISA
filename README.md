@@ -15,4 +15,4 @@
 4. [CW Attack](/CW_Attack_Tutorial.ipynb)
 5. [Low Frequency PGD Attack](/Low_Frequency_PGD_Attack_Tutorial.ipynb)
 6. [Shadow Attack](/Shadow_Attack_Tutorial.ipynb)
-7. [Unrestricted Attack Using GAN](Unrestricted_Attack_Using_GAN_Tutorial.ipynb)
+7. [Unrestricted Attack Using GAN](/Unrestricted_Attack_Using_GAN_Tutorial.ipynb)
